@@ -1,0 +1,1 @@
+wc.exe -c -w -l *.c -o out.txt

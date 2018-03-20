@@ -1,0 +1,12 @@
+file1.c,字符数：30
+file1.c,单词数：2
+file1.c,行数：1
+file2.c,字符数：466
+file2.c,单词数：41
+file2.c,行数：18
+file3.c,字符数：184
+file3.c,单词数：16
+file3.c,行数：4
+out.txt,字符数：122
+out.txt,单词数：20
+out.txt,行数：11
