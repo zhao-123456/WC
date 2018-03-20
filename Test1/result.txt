@@ -1,2 +1,0 @@
-wordtest.c,单词数：14
-stop.txt,单词数：0
